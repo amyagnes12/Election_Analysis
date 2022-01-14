@@ -24,4 +24,4 @@ The purpose of this project is to help Tom and Seth, Colorado Board of Election 
 ![winning_candidate](Resources/winning_candidate.png)
 
 ## Election-Audit Summary
-Our current script is based on election_results.csv. In this file, Ballot ID is shown on the 1st column, County on the 2nd column and Candidate name on the 3rd column. Other election reports could show information in different orders. All you need to do is changing the index based on the reports, so you can get the candidate name, county name, and all other information like winning candidate and winning county. Also you can update the code for county to city or state for all other elections.    
+Our current script is based on election_results.csv. In this file, Ballot ID is shown on the 1st column, County on the 2nd column, and Candidate name on the 3rd column. Other election reports could show information in different orders. If you update the index based on the reports, you can get the candidate name, county name, and all other information like winning candidate and winning county. Also you can update the code for county to city or state for all other elections.    
