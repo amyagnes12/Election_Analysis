@@ -20,9 +20,7 @@ The purpose of this project is to help Tom and Seth, Colorado Board of Election 
 	- Raymon Anthony Doane: 11,606, 3.1% 
 ![candidate_result](Resources/candidate_result.png)
 - The candidate who won the elction, their vote count, and their percentage of the total vote:
-	- Diana DeGette 
-	- 272,892 votes  
-	- 73.8% of the total votes
+	- Diana DeGette, 272,892 votes, 73.8% of the total votes
 ![winning_candidate](Resources/winning_candidate.png)
 
 ## Election-Audit Summary
